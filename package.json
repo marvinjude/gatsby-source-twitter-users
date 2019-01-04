@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-twitter-users",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Agboola Jude <marvinjudehk@gmail.com>",
   "description": "This source plugin for Gatsby will help you pull in twitter user object(s) into your gatsby site",
   "repository": "https://github.com/marvinjude/gatsby-source-twitter-users",
