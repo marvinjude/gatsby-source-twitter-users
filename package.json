@@ -8,7 +8,8 @@
   "keywords": [
     "gatsby", 
     "gatsby-source-plugin",
-    "gatby-plugin", "twitter"
+    "gatsby-plugin",
+    "twitter"
   ],
   "license": "MIT",
   "scripts": {
