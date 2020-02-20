@@ -74,7 +74,7 @@ module.exports = {
 ## Querying Twitter Users
 
 Once the plugin is configured, the `allTwitterUser` query will be available to you
-you can test it in your [GraphiQL Debugger](https:localhost:8000/___graphql)
+you can test it in your GraphiQL Debugger: `https://localhost:8000/___graphql`
 
 ## Note
 
